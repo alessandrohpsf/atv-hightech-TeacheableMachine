@@ -1,0 +1,2 @@
+0 controle-vertical
+1 controle-horizontal
